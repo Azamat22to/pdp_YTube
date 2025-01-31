@@ -1,4 +1,4 @@
-export const CUSTOM_SCROLLBAR_CSS = `
+export const CustomScrollbarCSS = `
 @supports (overflow: overlay){
   overflow: overlay;
   overflow-x: hidden;
