@@ -13,7 +13,6 @@ function App() {
       <Header />
       <Main />
       {isMobileView && <MobileFooter />}
-      <h1>Hello new youtube project</h1>
     </div>
   )
 }

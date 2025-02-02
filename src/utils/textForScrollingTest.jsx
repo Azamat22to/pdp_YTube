@@ -11,9 +11,8 @@ export function TextForScrollingTest() {
   return (
     <div
       style={{
-        paddingTop: `${
-          isMobileView ? MOBILE_VIEW_HEADER_HEIGHT : DESKTOP_VIEW_HEADER_HEIGHT
-        }px`,
+        paddingTop: `${isMobileView ? MOBILE_VIEW_HEADER_HEIGHT : DESKTOP_VIEW_HEADER_HEIGHT
+          }px`,
       }}
     >
       {[...new Array(100)]
