@@ -6,5 +6,3 @@ export const request = axios.create({
     key: process.env.REACT_APP_API_KEY,
   },
 })
-
-console.log(request);
