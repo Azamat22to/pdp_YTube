@@ -6,5 +6,3 @@ export const request = axios.create({
   },
 });
 
-export const REACT_APP_API_KEY="AIzaSyC51nMFkqtAafc0uHj57v2g-XThgVa8NLo";
-
