@@ -1,5 +1,5 @@
 const countries = [
-  { country: 'United Kingdom', regionCode: 'GB' },
+  { country: 'All'},
   { country: 'Ukraine', regionCode: 'UA' },
   { country: 'Germany', regionCode: 'DE' },
   { country: 'Turkey', regionCode: 'TR' },
