@@ -13,10 +13,6 @@ function App() {
       <Header />
       <Main />
       {isMobileView && <MobileFooter />}
-<<<<<<< HEAD
-     
-=======
->>>>>>> 6ab30ef9520c67b93a8b6e04c210ce49ec0d90c6
     </div>
   )
 }
